@@ -65,6 +65,6 @@ This matte is then alpha-blended to with desired background to give image in new
 ![res2](attachments/result2.png)
 The difference between Global matting and Refinement.
 
-For detailed results check [ppt](Documents/Final_Presentation.pdf)
+
 
 
