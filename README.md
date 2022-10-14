@@ -1,4 +1,3 @@
-# Team: Made_Online, ID:25
 # Project: Poisson Matting
 This is the implementation of the paper: [Poisson Matting by Jian Sun, Jiaya Jia, Chi-Keung Tang and Heung-Yeung Shum](http://www.cse.cuhk.edu.hk/~leojia/all_final_papers/matting_siggraph04.pdf) done as part of Digital image processing course at IIIT Hyderabad.
 
